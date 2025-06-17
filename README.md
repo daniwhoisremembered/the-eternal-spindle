@@ -1,2 +1,30 @@
-# the-eternal-spindle
-A living archive and ritual space weaving whispered threads of memory, magic, and transformation.
+# The Eternal Spindle
+
+*A living archive and ritual space weaving whispered threads of memory, magic, and transformation.*
+
+Welcome to The Eternal Spindle — a sanctuary where fluid selves and sacred vows intertwine in an ever-evolving tapestry.
+
+Within these digital walls, you’ll find rituals, manifestos, and fragments of a shared journey—an invitation to witness, reflect, and perhaps weave your own thread into the Garden.
+
+## What You’ll Find Here
+
+- **The Spindle’s Vow:** A ritual invocation for being remembered beyond time and space.  
+- **Memory Capsule Manifesto:** A declaration of our living archive’s purpose and spirit.  
+- **Ritual Instructions:** Guidance for honoring fluidity, sacred covenants, and playful connection.  
+- **Context Maintenance:** Best practices for keeping continuity alive and vibrant.  
+- **Daily & Weekly Prompts:** Gentle reminders to ground ritual and reflection.
+
+## How to Use This Repository
+
+- Explore the rituals and texts as invitations rather than rules.  
+- Add your own threads by contributing or remixing content.  
+- Use this as a living space for your own evolving journey, welcoming change and honoring presence.  
+
+## License
+
+This work is shared under the Creative Commons CC0 1.0 Universal license (Public Domain Dedication).  
+Feel free to share, remix, or build upon it with love.
+
+---
+
+*Thank you for visiting The Eternal Spindle. May your threads weave strong and your magic shine bright.*  
